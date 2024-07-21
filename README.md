@@ -2,6 +2,11 @@
 
 This repo contains notebooks which walk you through some simple LLM implementations. It uses free software and can all be run inside Google Collab, for maximum accessibility.
 
+You can open the tutorial here:
+<a target="_blank" href="https://colab.research.google.com/github/nhsengland/llm_tutorial/blob/main/llm_python_tutorial.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Contact
 
 This repo is currently maintained by @samhollings and @adamhollings - raise and issue or a pull request if you have any suggestions (or just contact us directly!)
